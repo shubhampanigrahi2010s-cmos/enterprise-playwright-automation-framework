@@ -24,7 +24,7 @@ console.log("Test started");
 
 const user = "test@email.com";
 const pass = "secret123"; 
-// ❌ Never log real passwords in production
+//  Never log real passwords in production
 
 console.log("Credentials:", user, pass);
 
