@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/automation-foundations/typescript/testAutomation.js",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
+}
